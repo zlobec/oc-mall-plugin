@@ -320,5 +320,5 @@
 1.11.17:
     - Added `mall.order.afterCreate` event, fixed various bugs
 1.11.18:
-    - Add short description field to Category model
+    - Added short description field to Category model
     - add_short_description_field_to_category.php
